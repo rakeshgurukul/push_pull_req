@@ -1,1 +1,2 @@
 Test file in GITHUB.
+New command added here with the help.
